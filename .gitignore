@@ -1,0 +1,6 @@
+# real Rocket.Chat data: never commit
+*.archive
+*.archive.gz
+backups/
+.env
+.codegraph/
