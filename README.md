@@ -27,6 +27,10 @@ idempotent, so a fresh dump can be imported right before cutover.
 server. They are gitignored here; keep them off shared storage and delete them
 once the cutover is verified.
 
+## Support
+
+Community help is free through [GitHub issues](https://github.com/gochathub/gochathub-rocketchat-migrate/issues). Paid Rocket.Chat migration, installation and maintenance are available: see [gochathub.com/support](https://gochathub.com/support/).
+
 ## Contributing and security
 
 See the [contributing guide](https://github.com/gochathub/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/gochathub/.github/blob/main/CODE_OF_CONDUCT.md). Report vulnerabilities privately through the Security tab, not in issues: [security policy](https://github.com/gochathub/.github/blob/main/SECURITY.md).
