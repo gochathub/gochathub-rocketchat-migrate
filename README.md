@@ -27,6 +27,10 @@ idempotent, so a fresh dump can be imported right before cutover.
 server. They are gitignored here; keep them off shared storage and delete them
 once the cutover is verified.
 
+## License
+
+[MIT](LICENSE) © Brian Tafoya
+
 ## Acknowledgements and trademarks
 
 goChatHub is an independent project, not affiliated with, endorsed by, or
